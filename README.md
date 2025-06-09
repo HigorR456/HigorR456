@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Higor</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=higorr456&label=Profile%20views&color=0e75b6&style=flat" alt="higorr456" /> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/HigorR456/portfolio-2)
+- 🔭 I’m currently working on [backend-challenge](https://github.com/HigorR456/backend-challenge)
 
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **React, TypeScript and Sass**
+- 💬 Ask me about **Nest, Nextjs, TypeScript**
 
 - 📫 How to reach me **higor456dev@gmail.com**
 
